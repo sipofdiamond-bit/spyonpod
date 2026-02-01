@@ -11,7 +11,7 @@
   "dependencies": {
     "react": "latest",
     "react-dom": "^19.0.0",
-    "next": "latest",
+    "next": "16.1.16",
     "@radix-ui/react-slot": "^1.1.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.0",
